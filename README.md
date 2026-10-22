@@ -44,8 +44,6 @@ Python-Programming-Internship/
 │   │   └── todo_list.py                # Command-line To-Do manager with JSON persistence
 │   └── task2_web_scraper/
 │       └── web_scraper.py              # Ethical web scraper with bs4 & requests
-├── screenshots/
-│   └── README.md                       # Visual proof checklist & capture guidelines
 └── tests/
     └── test_tasks.py                   # Automated unit test suite covering all 10 tasks
 ```
@@ -305,7 +303,6 @@ git push -u origin main
 
 ---
 
-## Demonstration & Verification Note
+## Project Verification
 
-> **Note on Screenshots & Video:**  
-> Refer to the [`screenshots/README.md`](screenshots/README.md) file for the complete screenshot checklist and instructions for capturing terminal runs or recording a demo video for your LinkedIn and college internship presentation.
+All 10 applications are fully verified and accompanied by automated tests in `tests/test_tasks.py`. You can execute the test suite anytime using `python tests/test_tasks.py` to confirm that all test assertions and edge cases pass successfully.
