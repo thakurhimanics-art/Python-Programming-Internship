@@ -1,0 +1,10 @@
+{
+    "Alice Sharma": {
+        "phone": "+91 98765 43210",
+        "email": "alice.sharma@example.com"
+    },
+    "Bob Patel": {
+        "phone": "+91 91234 56789",
+        "email": "bob.patel@example.com"
+    }
+}

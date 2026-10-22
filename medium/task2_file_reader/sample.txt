@@ -1,0 +1,16 @@
+Python Programming Internship Sample Document
+==============================================
+Welcome to the Python File Reader demonstration!
+
+Python is one of the most popular, versatile, and beginner-friendly
+programming languages in the world. It provides clean syntax, comprehensive
+standard libraries, and robust file I/O capabilities.
+
+Key Features of Python File Handling:
+1. Built-in 'open()' function with contextual 'with' statement.
+2. Automatic resource cleanup and safe stream closing.
+3. Support for multiple encodings such as UTF-8.
+4. Flexible reading modes: read(), readline(), and readlines().
+
+"Simple is better than complex. Readability counts."
+- The Zen of Python (PEP 20)
